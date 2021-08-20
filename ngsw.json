@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1629428929789,
+  "timestamp": 1629429094111,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -52,7 +52,7 @@
     "/assets/ngx-rocket-logo.png": "0ac53fd27406fe5a36e68285315fb0012e54058e",
     "/assets/ngx-rocket-logo@192.png": "461b730f9c6dc818f8af9acbe62dfde24dc02d7a",
     "/favicon.ico": "b65083d46bbf63692d5d2cdd69622e6d7ecae317",
-    "/index.html": "a83e6da86b89ede68e13e951d66e73747313fc20",
+    "/index.html": "cd958ac707fb913ebb75e2e50b29538594e3130e",
     "/main.b308b74e0a2293dfcb09.js": "20094adb7f440f994dbe04955fcd233705ca0d0d",
     "/manifest.webmanifest": "de134eeca87fdc97ad07fd9092afe7dca765ec87",
     "/polyfills.04d4a02a43f4de00c091.js": "c43873966f5f760227a3326c590dae6d9ff8c962",
